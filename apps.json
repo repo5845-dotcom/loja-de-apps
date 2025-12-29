@@ -1,0 +1,8 @@
+[ { "nome": "Steam", "pacote": "steam", "categoria": "Jogos", 
+        "descricao": "Plataforma de jogos da Valve"
+    },
+    { "nome": "Discord", "pacote": "discord", "categoria": 
+        "Comunicacao", "descricao": "Chat para gamers"
+    }
+]
+
